@@ -1,0 +1,5 @@
+.form_login{
+    padding: 20px !important;
+    background: var(--secondary) !important;
+    border-radius: 14px;
+}
